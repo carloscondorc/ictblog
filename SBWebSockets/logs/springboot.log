@@ -1,0 +1,33 @@
+19/10/2015 17:44:28 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 7408 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 17:44:28 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 17:44:28 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 17:44:32 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 5.057 seconds (JVM running for 13.344)
+19/10/2015 17:44:50 [http-nio-9999-exec-1] (ExampleController.java:27) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Entering in HOME
+19/10/2015 17:47:33 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 5932 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 17:47:33 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 17:47:33 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 17:47:38 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 5.055 seconds (JVM running for 13.382)
+19/10/2015 17:47:48 [http-nio-9999-exec-1] (ExampleController.java:27) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Entering in HOME
+19/10/2015 17:48:41 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 7224 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 17:48:41 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 17:48:41 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 17:48:45 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 5.168 seconds (JVM running for 13.107)
+19/10/2015 17:49:07 [http-nio-9999-exec-1] (ExampleController.java:27) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Entering in HOME
+19/10/2015 17:50:11 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 7296 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 17:50:11 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 17:50:11 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 17:50:17 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 6.636 seconds (JVM running for 14.896)
+19/10/2015 17:50:44 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 8840 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 17:50:44 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 17:50:44 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 17:50:49 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 5.215 seconds (JVM running for 13.673)
+19/10/2015 18:01:26 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 6096 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 18:01:26 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 18:01:26 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 18:01:30 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 5.015 seconds (JVM running for 13.127)
+19/10/2015 18:01:35 [http-nio-9999-exec-1] (ExampleController.java:27) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Entering in HOME
+19/10/2015 18:02:27 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 6428 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 18:02:28 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 18:02:28 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 18:02:33 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 6.451 seconds (JVM running for 21.39)
+19/10/2015 18:02:50 [http-nio-9999-exec-2] (ExampleController.java:27) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Entering in HOME

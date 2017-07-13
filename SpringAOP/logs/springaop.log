@@ -1,0 +1,173 @@
+17/11/2015 15:05:12 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 6200 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 15:05:12 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 15:05:12 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 15:05:24 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 13.872 seconds (JVM running for 39.795)
+17/11/2015 15:06:12 [http-nio-9999-exec-3] (ExampleController.java:29) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in HOME
+17/11/2015 15:32:01 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 8532 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 15:32:01 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 15:32:01 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 15:32:10 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 10.453 seconds (JVM running for 27.369)
+17/11/2015 16:37:56 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 1648 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 16:37:56 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 16:37:56 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 16:38:04 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 8.901 seconds (JVM running for 26.152)
+17/11/2015 16:38:34 [http-nio-9999-exec-1] (ExampleController.java:49) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 16:41:45 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 8492 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 16:41:45 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 16:41:45 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 16:41:51 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 7.386 seconds (JVM running for 22.68)
+17/11/2015 16:41:56 [http-nio-9999-exec-1] (ExampleController.java:49) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 16:42:40 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 8212 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 16:42:40 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 16:42:40 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 16:43:12 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 2908 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 16:43:12 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 16:43:12 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 16:43:18 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 7.311 seconds (JVM running for 17.64)
+17/11/2015 16:43:25 [http-nio-9999-exec-1] (ExampleController.java:49) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 16:49:46 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 5956 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 16:49:46 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 16:49:46 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 16:49:53 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 7.201 seconds (JVM running for 17.835)
+17/11/2015 16:49:58 [http-nio-9999-exec-1] (ExampleController.java:49) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 16:50:01 [http-nio-9999-exec-2] (ExampleController.java:49) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 16:54:40 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 7400 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 16:54:40 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 16:54:40 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 16:54:51 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 12.059 seconds (JVM running for 25.2)
+17/11/2015 16:54:55 [http-nio-9999-exec-1] (ExampleController.java:49) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 16:58:04 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 2500 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 16:58:04 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 16:58:04 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 16:58:10 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 7.228 seconds (JVM running for 17.996)
+17/11/2015 16:58:16 [http-nio-9999-exec-1] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 16:58:16 [http-nio-9999-exec-1] (LogAspect.java:30) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before
+17/11/2015 16:58:27 [http-nio-9999-exec-2] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 16:58:27 [http-nio-9999-exec-2] (LogAspect.java:30) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before
+17/11/2015 16:58:33 [http-nio-9999-exec-3] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 16:58:33 [http-nio-9999-exec-3] (LogAspect.java:30) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before
+17/11/2015 16:59:57 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 6420 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 16:59:57 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 16:59:57 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 17:00:04 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 7.588 seconds (JVM running for 19.021)
+17/11/2015 17:00:13 [http-nio-9999-exec-1] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 17:00:13 [http-nio-9999-exec-1] (LogAspect.java:30) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:15:02 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 8304 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 17:15:02 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 17:15:02 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 17:15:10 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 8.547 seconds (JVM running for 23.303)
+17/11/2015 17:15:54 [http-nio-9999-exec-1] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 17:15:54 [http-nio-9999-exec-1] (LogAspect.java:84) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAround
+17/11/2015 17:15:54 [http-nio-9999-exec-1] (LogAspect.java:85) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:15:54 [http-nio-9999-exec-1] (LogAspect.java:35) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logBefore
+17/11/2015 17:15:54 [http-nio-9999-exec-1] (LogAspect.java:36) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:15:54 [http-nio-9999-exec-1] (LogAspect.java:88) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:15:54 [http-nio-9999-exec-1] (LogAspect.java:46) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfter
+17/11/2015 17:15:54 [http-nio-9999-exec-1] (LogAspect.java:47) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:15:54 [http-nio-9999-exec-1] (LogAspect.java:58) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfterReturning
+17/11/2015 17:15:54 [http-nio-9999-exec-1] (LogAspect.java:59) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:15:54 [http-nio-9999-exec-1] (LogAspect.java:60) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - - And value returned is: null
+17/11/2015 17:16:55 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 8828 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 17:16:55 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 17:16:55 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 17:17:03 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 7.983 seconds (JVM running for 19.063)
+17/11/2015 17:17:07 [http-nio-9999-exec-1] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 17:17:07 [http-nio-9999-exec-1] (LogAspect.java:84) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAround
+17/11/2015 17:17:07 [http-nio-9999-exec-1] (LogAspect.java:85) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:17:07 [http-nio-9999-exec-1] (LogAspect.java:35) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logBefore
+17/11/2015 17:17:07 [http-nio-9999-exec-1] (LogAspect.java:36) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:17:07 [http-nio-9999-exec-1] (LogAspect.java:88) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:17:07 [http-nio-9999-exec-1] (LogAspect.java:46) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfter
+17/11/2015 17:17:07 [http-nio-9999-exec-1] (LogAspect.java:47) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:17:07 [http-nio-9999-exec-1] (LogAspect.java:58) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfterReturning
+17/11/2015 17:17:07 [http-nio-9999-exec-1] (LogAspect.java:59) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:17:07 [http-nio-9999-exec-1] (LogAspect.java:60) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - - And value returned is: null
+17/11/2015 17:17:10 [http-nio-9999-exec-2] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 17:17:10 [http-nio-9999-exec-2] (LogAspect.java:84) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAround
+17/11/2015 17:17:10 [http-nio-9999-exec-2] (LogAspect.java:85) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:17:10 [http-nio-9999-exec-2] (LogAspect.java:35) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logBefore
+17/11/2015 17:17:10 [http-nio-9999-exec-2] (LogAspect.java:36) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:17:10 [http-nio-9999-exec-2] (LogAspect.java:88) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:17:10 [http-nio-9999-exec-2] (LogAspect.java:46) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfter
+17/11/2015 17:17:10 [http-nio-9999-exec-2] (LogAspect.java:47) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:17:10 [http-nio-9999-exec-2] (LogAspect.java:58) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfterReturning
+17/11/2015 17:17:10 [http-nio-9999-exec-2] (LogAspect.java:59) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:17:10 [http-nio-9999-exec-2] (LogAspect.java:60) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - - And value returned is: null
+17/11/2015 17:19:14 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 7700 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 17:19:14 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 17:19:14 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 17:19:21 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 7.591 seconds (JVM running for 18.416)
+17/11/2015 17:20:43 [http-nio-9999-exec-1] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 17:20:43 [http-nio-9999-exec-1] (LogAspect.java:84) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAround
+17/11/2015 17:20:43 [http-nio-9999-exec-1] (LogAspect.java:85) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:20:43 [http-nio-9999-exec-1] (LogAspect.java:35) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logBefore
+17/11/2015 17:20:43 [http-nio-9999-exec-1] (LogAspect.java:36) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:20:43 [http-nio-9999-exec-1] (LogAspect.java:88) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:20:43 [http-nio-9999-exec-1] (LogAspect.java:46) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfter
+17/11/2015 17:20:43 [http-nio-9999-exec-1] (LogAspect.java:47) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:20:43 [http-nio-9999-exec-1] (LogAspect.java:58) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfterReturning
+17/11/2015 17:20:43 [http-nio-9999-exec-1] (LogAspect.java:59) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:20:43 [http-nio-9999-exec-1] (LogAspect.java:60) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - - And value returned is: null
+17/11/2015 17:24:29 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 8240 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 17:24:29 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 17:24:29 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 17:24:36 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 7.933 seconds (JVM running for 18.758)
+17/11/2015 17:24:40 [http-nio-9999-exec-1] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 17:24:40 [http-nio-9999-exec-1] (LogAspect.java:84) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAround
+17/11/2015 17:24:40 [http-nio-9999-exec-1] (LogAspect.java:85) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:24:40 [http-nio-9999-exec-1] (LogAspect.java:35) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logBefore
+17/11/2015 17:24:40 [http-nio-9999-exec-1] (LogAspect.java:36) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:24:40 [http-nio-9999-exec-1] (LogAspect.java:88) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:24:40 [http-nio-9999-exec-1] (LogAspect.java:46) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfter
+17/11/2015 17:24:40 [http-nio-9999-exec-1] (LogAspect.java:47) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:24:40 [http-nio-9999-exec-1] (LogAspect.java:58) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfterReturning
+17/11/2015 17:24:40 [http-nio-9999-exec-1] (LogAspect.java:59) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:24:40 [http-nio-9999-exec-1] (LogAspect.java:60) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - - And value returned is: null
+17/11/2015 17:24:40 [http-nio-9999-exec-1] (ExampleController.java:56) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Finishing CALCULATE
+17/11/2015 17:24:47 [http-nio-9999-exec-2] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 17:24:47 [http-nio-9999-exec-2] (LogAspect.java:84) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAround
+17/11/2015 17:24:47 [http-nio-9999-exec-2] (LogAspect.java:85) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:24:47 [http-nio-9999-exec-2] (LogAspect.java:35) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logBefore
+17/11/2015 17:24:47 [http-nio-9999-exec-2] (LogAspect.java:36) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:24:47 [http-nio-9999-exec-2] (LogAspect.java:88) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:24:47 [http-nio-9999-exec-2] (LogAspect.java:46) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfter
+17/11/2015 17:24:47 [http-nio-9999-exec-2] (LogAspect.java:47) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:24:47 [http-nio-9999-exec-2] (LogAspect.java:58) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfterReturning
+17/11/2015 17:24:47 [http-nio-9999-exec-2] (LogAspect.java:59) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:24:47 [http-nio-9999-exec-2] (LogAspect.java:60) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - - And value returned is: null
+17/11/2015 17:24:47 [http-nio-9999-exec-2] (ExampleController.java:56) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Finishing CALCULATE
+17/11/2015 17:26:11 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 7068 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+17/11/2015 17:26:11 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+17/11/2015 17:26:11 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+17/11/2015 17:26:19 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 8.067 seconds (JVM running for 23.957)
+17/11/2015 17:26:36 [http-nio-9999-exec-1] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+17/11/2015 17:26:36 [http-nio-9999-exec-1] (LogAspect.java:32) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logBefore
+17/11/2015 17:26:36 [http-nio-9999-exec-1] (LogAspect.java:33) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+17/11/2015 17:26:36 [http-nio-9999-exec-1] (LogAspect.java:55) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfterReturning
+17/11/2015 17:26:36 [http-nio-9999-exec-1] (LogAspect.java:56) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+17/11/2015 17:26:36 [http-nio-9999-exec-1] (LogAspect.java:57) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - - And value returned is: 2
+17/11/2015 17:26:36 [http-nio-9999-exec-1] (ExampleController.java:56) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Finishing CALCULATE
+18/11/2015 14:37:16 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 9056 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+18/11/2015 14:37:16 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+18/11/2015 14:37:16 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+18/11/2015 14:37:42 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 7416 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+18/11/2015 14:37:42 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+18/11/2015 14:37:42 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+27/11/2015 14:37:33 [main] (StartupInfoLogger.java:48) INFO  net.luisalbertogh.springaop.SpringAOP  - Starting SpringAOP on lagarciapw7 with PID 8264 (D:\workspace_luna\SpringAOP\target\classes started by lagarcia in D:\workspace_luna\SpringAOP)
+27/11/2015 14:37:33 [main] (StartupInfoLogger.java:51) DEBUG net.luisalbertogh.springaop.SpringAOP  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.3.RELEASE
+27/11/2015 14:37:33 [main] (SpringApplication.java:653) INFO  net.luisalbertogh.springaop.SpringAOP  - No profiles are active
+27/11/2015 14:37:42 [main] (StartupInfoLogger.java:57) INFO  net.luisalbertogh.springaop.SpringAOP  - Started SpringAOP in 10.35 seconds (JVM running for 26.317)
+27/11/2015 14:48:43 [http-nio-9999-exec-1] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+27/11/2015 14:48:43 [http-nio-9999-exec-1] (LogAspect.java:32) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logBefore
+27/11/2015 14:48:43 [http-nio-9999-exec-1] (LogAspect.java:33) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+27/11/2015 14:48:43 [http-nio-9999-exec-1] (LogAspect.java:55) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfterReturning
+27/11/2015 14:48:43 [http-nio-9999-exec-1] (LogAspect.java:56) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+27/11/2015 14:48:43 [http-nio-9999-exec-1] (LogAspect.java:57) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - - And value returned is: 2
+27/11/2015 14:48:43 [http-nio-9999-exec-1] (ExampleController.java:56) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Finishing CALCULATE
+27/11/2015 14:49:26 [http-nio-9999-exec-4] (ExampleController.java:48) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Entering in CALCULATE
+27/11/2015 14:49:26 [http-nio-9999-exec-4] (LogAspect.java:32) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logBefore
+27/11/2015 14:49:26 [http-nio-9999-exec-4] (LogAspect.java:33) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log before in: countCharsService
+27/11/2015 14:49:26 [http-nio-9999-exec-4] (LogAspect.java:55) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - logAfterReturning
+27/11/2015 14:49:26 [http-nio-9999-exec-4] (LogAspect.java:56) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - Log after in: countCharsService
+27/11/2015 14:49:26 [http-nio-9999-exec-4] (LogAspect.java:57) INFO  net.luisalbertogh.springaop.aspect.LogAspect  - - And value returned is: 4
+27/11/2015 14:49:26 [http-nio-9999-exec-4] (ExampleController.java:56) INFO  net.luisalbertogh.springaop.controllers.ExampleController  - Finishing CALCULATE

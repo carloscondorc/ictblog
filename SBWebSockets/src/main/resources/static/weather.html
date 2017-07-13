@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Weather Info</title>
+
+<!-- JavaScript resources -->
+<script src="js/stomp.js"></script>
+<script src="js/sockjs.min.js"></script>
+<script src="js/myjs.js"></script>
+
+</head>
+<body onload="setConnected(false)">
+
+<p>
+<input type="button" id="con" value="Connect" onclick="javascript:connect()"/>
+<input type="button" id="dis" value="Disconnect" onclick="javascript:disconnect()"/></p>
+<p>Status: <span id="status"></span></p>
+<p>Find weather in: <input type="text" id="place" name="place" value=""/>
+<input type="button" id="but" value="Send place" onclick="javascript:sendPlace()"/></p>
+
+<h1>Weather Info:</h1>
+<div id="weatherInfo">
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,223 @@
+19/10/2015 17:44:28 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 7408 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 17:44:28 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 17:44:28 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 17:44:32 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 5.057 seconds (JVM running for 13.344)
+19/10/2015 17:44:50 [http-nio-9999-exec-1] (ExampleController.java:27) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Entering in HOME
+19/10/2015 17:47:33 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 5932 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 17:47:33 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 17:47:33 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 17:47:38 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 5.055 seconds (JVM running for 13.382)
+19/10/2015 17:47:48 [http-nio-9999-exec-1] (ExampleController.java:27) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Entering in HOME
+19/10/2015 17:48:41 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 7224 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 17:48:41 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 17:48:41 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 17:48:45 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 5.168 seconds (JVM running for 13.107)
+19/10/2015 17:49:07 [http-nio-9999-exec-1] (ExampleController.java:27) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Entering in HOME
+19/10/2015 17:50:11 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 7296 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 17:50:11 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 17:50:11 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 17:50:17 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 6.636 seconds (JVM running for 14.896)
+19/10/2015 17:50:44 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 8840 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 17:50:44 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 17:50:44 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 17:50:49 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 5.215 seconds (JVM running for 13.673)
+19/10/2015 18:01:26 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 6096 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 18:01:26 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 18:01:26 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 18:01:30 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 5.015 seconds (JVM running for 13.127)
+19/10/2015 18:01:35 [http-nio-9999-exec-1] (ExampleController.java:27) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Entering in HOME
+19/10/2015 18:02:27 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 6428 (D:\workspace_luna\SpringBoot\target\classes started by lagarcia in D:\workspace_luna\SpringBoot)
+19/10/2015 18:02:28 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+19/10/2015 18:02:28 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+19/10/2015 18:02:33 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 6.451 seconds (JVM running for 21.39)
+19/10/2015 18:02:50 [http-nio-9999-exec-2] (ExampleController.java:27) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Entering in HOME
+26/10/2015 14:30:49 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 5080 (D:\workspace_luna\SBWebSockets\target\classes started by lagarcia in D:\workspace_luna\SBWebSockets)
+26/10/2015 14:30:49 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+26/10/2015 14:30:49 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+26/10/2015 14:31:51 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 70.765 seconds (JVM running for 166.607)
+26/10/2015 14:37:39 [http-nio-9999-exec-3] (ExampleController.java:27) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Entering in HOME
+26/10/2015 17:05:51 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 528 (D:\workspace_luna\SBWebSockets\target\classes started by lagarcia in D:\workspace_luna\SBWebSockets)
+26/10/2015 17:05:51 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+26/10/2015 17:05:51 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+26/10/2015 17:05:58 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 7.576 seconds (JVM running for 33.102)
+26/10/2015 17:06:38 [http-nio-9999-exec-1] (ExampleController.java:27) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Entering in HOME
+26/10/2015 18:09:17 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 4528 (D:\workspace_luna\SBWebSockets\target\classes started by lagarcia in D:\workspace_luna\SBWebSockets)
+26/10/2015 18:09:17 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+26/10/2015 18:09:17 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+26/10/2015 18:09:51 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 232 (D:\workspace_luna\SBWebSockets\target\classes started by lagarcia in D:\workspace_luna\SBWebSockets)
+26/10/2015 18:09:51 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+26/10/2015 18:09:51 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+26/10/2015 18:09:57 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 5.905 seconds (JVM running for 14.961)
+26/10/2015 18:13:22 [clientInboundChannel-3] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:13:23 [clientInboundChannel-3] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:13:28 [clientInboundChannel-5] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:13:29 [clientInboundChannel-1] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:13:29 [clientInboundChannel-6] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:13:29 [clientInboundChannel-7] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:13:29 [clientInboundChannel-5] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:13:30 [clientInboundChannel-1] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:13:30 [clientInboundChannel-6] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:13:30 [clientInboundChannel-7] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:15:21 [clientInboundChannel-9] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:15:22 [clientInboundChannel-9] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:15:22 [clientInboundChannel-12] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:15:23 [clientInboundChannel-12] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:15:58 [clientInboundChannel-14] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from 
+26/10/2015 18:15:59 [clientInboundChannel-14] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from 
+26/10/2015 18:16:35 [clientInboundChannel-17] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:16:36 [clientInboundChannel-17] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:17:21 [clientInboundChannel-20] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:17:22 [clientInboundChannel-20] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:18:13 [clientInboundChannel-12] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from dasdas
+26/10/2015 18:18:14 [clientInboundChannel-12] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from dasdas
+26/10/2015 18:18:19 [clientInboundChannel-18] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:18:20 [clientInboundChannel-18] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:22:00 [clientInboundChannel-26] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:22:01 [clientInboundChannel-26] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:23:22 [clientInboundChannel-34] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:23:23 [clientInboundChannel-34] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:24:22 [clientInboundChannel-45] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:24:23 [clientInboundChannel-45] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:25:56 [clientInboundChannel-47] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Madrid
+26/10/2015 18:25:57 [clientInboundChannel-47] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Madrid
+26/10/2015 18:26:03 [clientInboundChannel-50] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Get weather from Paris
+26/10/2015 18:26:04 [clientInboundChannel-50] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.ExampleController  - Retrieving weather from Paris
+26/10/2015 18:33:46 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 4296 (D:\workspace_luna\SBWebSockets\target\classes started by lagarcia in D:\workspace_luna\SBWebSockets)
+26/10/2015 18:33:47 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+26/10/2015 18:33:47 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+26/10/2015 18:33:52 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 5.991 seconds (JVM running for 15.301)
+26/10/2015 18:33:58 [clientInboundChannel-7] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Paris
+26/10/2015 18:33:59 [clientInboundChannel-7] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Paris
+26/10/2015 18:34:03 [clientInboundChannel-3] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+26/10/2015 18:34:04 [clientInboundChannel-3] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+26/10/2015 18:34:09 [clientInboundChannel-6] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from London
+26/10/2015 18:34:10 [clientInboundChannel-6] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from London
+26/10/2015 18:34:12 [clientInboundChannel-1] (WeatherController.java:43) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from fsdfsd
+26/10/2015 18:34:13 [clientInboundChannel-1] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from fsdfsd
+27/10/2015 11:46:01 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 7420 (D:\workspace_luna\SBWebSockets\target\classes started by lagarcia in D:\workspace_luna\SBWebSockets)
+27/10/2015 11:46:01 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+27/10/2015 11:46:01 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+27/10/2015 11:47:48 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 6516 (D:\workspace_luna\SBWebSockets\target\classes started by lagarcia in D:\workspace_luna\SBWebSockets)
+27/10/2015 11:47:48 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+27/10/2015 11:47:48 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+27/10/2015 11:47:54 [MessageBroker-1] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:47:54 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 6.707 seconds (JVM running for 15.56)
+27/10/2015 11:47:55 [MessageBroker-1] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:47:56 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:47:57 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:47:58 [MessageBroker-3] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:47:59 [MessageBroker-3] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:00 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:00 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:01 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:02 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:03 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:04 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:05 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:06 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:07 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:08 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:09 [MessageBroker-4] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:10 [MessageBroker-4] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:11 [MessageBroker-3] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:12 [MessageBroker-3] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:13 [MessageBroker-3] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:14 [MessageBroker-3] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:15 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:16 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:17 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:19 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:20 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:21 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:22 [MessageBroker-4] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:23 [MessageBroker-4] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:24 [MessageBroker-4] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:24 [MessageBroker-4] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:25 [MessageBroker-4] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:26 [MessageBroker-4] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:27 [MessageBroker-4] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:28 [MessageBroker-4] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:29 [MessageBroker-4] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:30 [MessageBroker-4] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:31 [MessageBroker-3] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:32 [MessageBroker-3] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:33 [MessageBroker-3] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:34 [clientInboundChannel-7] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Paris
+27/10/2015 11:48:34 [MessageBroker-3] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:35 [clientInboundChannel-7] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Paris
+27/10/2015 11:48:35 [MessageBroker-4] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:36 [MessageBroker-4] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:37 [MessageBroker-3] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:38 [MessageBroker-3] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:39 [MessageBroker-3] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:40 [MessageBroker-3] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:42 [MessageBroker-4] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:42 [MessageBroker-4] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:43 [MessageBroker-4] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:44 [MessageBroker-4] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:45 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:47 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:48 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:49 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:50 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:51 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:52 [MessageBroker-1] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:53 [MessageBroker-1] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:54 [MessageBroker-1] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:55 [MessageBroker-1] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:56 [MessageBroker-3] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:57 [MessageBroker-3] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:48:58 [MessageBroker-2] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:48:59 [MessageBroker-2] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:49:00 [MessageBroker-4] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:49:01 [MessageBroker-4] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:49:02 [MessageBroker-1] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:49:03 [MessageBroker-1] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:49:04 [MessageBroker-1] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:49:05 [MessageBroker-1] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:49:06 [MessageBroker-3] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:49:07 [MessageBroker-3] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 11:49:08 [MessageBroker-3] (WeatherController.java:46) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 11:49:09 [MessageBroker-3] (WeatherController.java:54) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 12:27:39 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 6796 (D:\workspace_luna\SBWebSockets\target\classes started by lagarcia in D:\workspace_luna\SBWebSockets)
+27/10/2015 12:27:39 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+27/10/2015 12:27:39 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+27/10/2015 12:27:45 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 6.908 seconds (JVM running for 20.477)
+27/10/2015 12:31:33 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 6676 (D:\workspace_luna\SBWebSockets\target\classes started by lagarcia in D:\workspace_luna\SBWebSockets)
+27/10/2015 12:31:33 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+27/10/2015 12:31:33 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+27/10/2015 12:31:39 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 6.847 seconds (JVM running for 21.96)
+27/10/2015 12:34:02 [clientInboundChannel-7] (WeatherController.java:51) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Paris
+27/10/2015 12:34:03 [clientInboundChannel-7] (WeatherController.java:59) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Paris
+27/10/2015 13:18:45 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 6448 (D:\workspace_luna\SBWebSockets\target\classes started by lagarcia in D:\workspace_luna\SBWebSockets)
+27/10/2015 13:18:45 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+27/10/2015 13:18:45 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+27/10/2015 13:18:50 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 6.091 seconds (JVM running for 18.251)
+27/10/2015 13:19:05 [clientInboundChannel-7] (WeatherController.java:50) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 13:19:06 [clientInboundChannel-7] (WeatherController.java:58) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 13:19:10 [clientInboundChannel-3] (WeatherController.java:50) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 13:19:11 [clientInboundChannel-3] (WeatherController.java:58) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 13:19:16 [clientInboundChannel-6] (WeatherController.java:50) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Paris
+27/10/2015 13:19:17 [clientInboundChannel-6] (WeatherController.java:58) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Paris
+27/10/2015 13:19:30 [clientInboundChannel-5] (WeatherController.java:50) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Paris
+27/10/2015 13:19:31 [clientInboundChannel-5] (WeatherController.java:58) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Paris
+27/10/2015 13:20:15 [clientInboundChannel-7] (WeatherController.java:50) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Paris
+27/10/2015 13:20:16 [clientInboundChannel-7] (WeatherController.java:58) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Paris
+27/10/2015 13:20:21 [clientInboundChannel-1] (WeatherController.java:50) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Paris
+27/10/2015 13:20:22 [clientInboundChannel-1] (WeatherController.java:58) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Paris
+27/10/2015 13:37:57 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 7256 (D:\workspace_luna\SBWebSockets\target\classes started by lagarcia in D:\workspace_luna\SBWebSockets)
+27/10/2015 13:37:57 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+27/10/2015 13:37:57 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+27/10/2015 13:38:04 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 7.423 seconds (JVM running for 19.174)
+27/10/2015 14:11:17 [main] (StartupInfoLogger.java:47) INFO  net.luisalbertogh.springboot.SpringBoot  - Starting SpringBoot on lagarciapw7 with PID 7496 (D:\workspace_luna\SBWebSockets\target\classes started by lagarcia in D:\workspace_luna\SBWebSockets)
+27/10/2015 14:11:17 [main] (StartupInfoLogger.java:50) DEBUG net.luisalbertogh.springboot.SpringBoot  - Running with Spring Boot v1.3.0.BUILD-SNAPSHOT, Spring v4.2.2.RELEASE
+27/10/2015 14:11:17 [main] (SpringApplication.java:661) INFO  net.luisalbertogh.springboot.SpringBoot  - No profiles are active
+27/10/2015 14:11:23 [main] (StartupInfoLogger.java:56) INFO  net.luisalbertogh.springboot.SpringBoot  - Started SpringBoot in 6.239 seconds (JVM running for 18.769)
+27/10/2015 14:11:37 [clientInboundChannel-7] (WeatherController.java:50) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from paris
+27/10/2015 14:11:38 [clientInboundChannel-7] (WeatherController.java:58) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from paris
+27/10/2015 14:11:44 [clientInboundChannel-3] (WeatherController.java:50) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Paris
+27/10/2015 14:11:45 [clientInboundChannel-3] (WeatherController.java:58) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Paris
+27/10/2015 17:39:17 [clientInboundChannel-15] (WeatherController.java:50) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Madrid
+27/10/2015 17:39:18 [clientInboundChannel-15] (WeatherController.java:58) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Madrid
+27/10/2015 17:41:10 [clientInboundChannel-24] (WeatherController.java:50) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Get weather from Paris
+27/10/2015 17:41:11 [clientInboundChannel-24] (WeatherController.java:58) INFO  net.luisalbertogh.springboot.controllers.WeatherController  - Retrieving weather from Paris
