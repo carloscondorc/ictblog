@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/workspace/Unfolding/lib/core.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Unfolding/lib/glgraphics.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Unfolding/lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Unfolding/lib/jogl.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Unfolding/lib/json4processing.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Unfolding/lib/libTUIO.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Unfolding/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Unfolding/lib/opengl.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Unfolding/lib/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/Unfolding/lib/unfolding.0.9.3.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
